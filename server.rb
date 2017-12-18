@@ -1,6 +1,6 @@
 require 'sinatra' #requires sinatra
 
-get '/' do
+get '/' do # this code runs when a browser requests root path
   File.open('public/index.html')
 end
 
