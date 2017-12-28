@@ -3,6 +3,7 @@ body {
   justify-content: center;
   -ms-align-items: center;
   align-items: center;
+  min-height: 100vh;
 }
 .prof-box{
   position:fixed;
