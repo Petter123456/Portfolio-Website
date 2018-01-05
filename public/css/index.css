@@ -4,6 +4,7 @@ body {
   -ms-align-items: center;
   align-items: center;
   min-height: 100vh;
+background-color: black;
 }
 .prof-box{
   position:fixed;
